@@ -27,9 +27,10 @@ To produce data for this analysis follow these steps:
 5. Use fiji or napari to manually find the xyz coordinates of the start and end of each probe track
 6. add these coordinates to a txt file like the one provided in example data  
 
-## Getting Started
+## Requirements 
 
 Ensure you have the following software installed:
 - [Git](https://git-scm.com/)
 - [Python](https://www.python.org/downloads/)  (Version used: 3.12.3)
 - Jupyter notebook
+- this analysis requires some standard (very easy to install) python packages
