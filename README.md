@@ -24,7 +24,7 @@ To produce data for this analysis follow these steps:
 2. Prepare histology (perfusion)
 3. Image the enitre brain with serial section microscopy (eg. SWC brainsaw)
 4. Register the aquired images to the allen standard space with brainreg: https://brainglobe.info/documentation/brainreg/index.html
-5. Use fiji or napari to manually find the xyz coordinates of the start and end of each probe track
+5. Use fiji or napari to manually find the xyz coordinates of the start and end of each probe track (coordinates in the allen standardised space)
 6. add these coordinates to a txt file like the one provided in example data  
 
 ## Requirements 
